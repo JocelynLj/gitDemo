@@ -1,6 +1,6 @@
 // 模拟已有功能1
 function f1(){
-  console.log(1);
+  console.log(121);
 }
 
 // 模拟需求5的实现
