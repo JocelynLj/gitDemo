@@ -2,6 +2,6 @@
 function f3(){
   console.log(3);
   // bug修复
-  consol.log('bugfix');
+  consol.log('bugfix3');
 }
 f3();
